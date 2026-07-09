@@ -112,7 +112,7 @@ The biggest challenge was integrating multiple technologies into one seamless pl
 # 📽️ Demo & Deliverables
 
 🌐 **Live Website**
-lifevault-ai-qoc8.vercel.app
+https://lifevault-ai-qoc8.vercel.app/
 
 
 🎥 **Demo Video**
