@@ -112,24 +112,20 @@ The biggest challenge was integrating multiple technologies into one seamless pl
 # 📽️ Demo & Deliverables
 
 🌐 **Live Website**
-
 https://lifevault-ai-seven.vercel.app/
+
 
 🎥 **Demo Video**
 
-(Add YouTube/Google Drive Link)
+https://drive.google.com/file/d/17lEBBjSBq7L5qZ-Bc5ZyokX6CgK3yw9T/view?usp=drivesdk
 
 📑 **Pitch Deck**
 
-(Add PPT Link)
+https://drive.google.com/file/d/18X4vbb6nqVumO8TNlgfEznTpc85jHsf4/view?usp=drivesdk
 
 📝 **Project Blog**
 
-(Add Hashnode Link)
-
-💻 **GitHub Repository**
-
-(Add Repository Link)
+https://lifevaultlabs.hashnode.dev/
 
 ---
 
