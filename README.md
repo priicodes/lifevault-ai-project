@@ -217,7 +217,6 @@ npm run build
 - Visual Studio Code
 - Git
 - GitHub
-- Canva
 - Vercel
 
 ## Special Thanks
